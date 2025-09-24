@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# Caches
+[Ll]ibrary/PackageCache/
+[Ll]ibrary/PlayerDataCache/
+# OS junk
+.DS_Store
+# IDE
+*.csproj
+*.sln
+*.user
